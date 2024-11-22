@@ -11,6 +11,7 @@ menu:
 
 projects:
 - {name: 'Court métrage: Carcinome In Situ',   url: 'carcinome-in-situ'}
+- {name: 'Court métrage: Poppie',   url: 'poppie'}
 - {name: 'Annonce du roster LEC 2024 de la KCorp',   url: 'roster-kc-lec-2024'}
 - {name: 'Annonce du roster Rocket League 2024 de la KCorp',   url: 'roster-kc-rl-2024'}
 - {name: 'Annonce du roster Valorant 2024 de la KCorp',   url: 'roster-kc-valorant-2024'}

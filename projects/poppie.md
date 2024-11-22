@@ -1,0 +1,25 @@
+---
+layout: post
+title: 'Court métrage: Poppie'
+---
+
+RAM collabore avec Flavyen Dupont et Alex Nourrisson pour le Nikon Film Festival 2024. Production et distribution du projet. 
+
+{% include image.html image="projects/poppie/thumbnail.png" %}
+
+
+#### Affiche
+
+{% include image.html image="projects/poppie/affiche.png" %}
+
+#### Extraits
+
+{% include image.html image="projects/poppie/1.jpg" %}
+
+{% include image.html image="projects/poppie/2.jpg" %}
+
+{% include image.html image="projects/poppie/3.jpg" %}
+
+{% include image.html image="projects/poppie/4.jpg" %}
+
+{% include image.html image="projects/poppie/5.jpg" %}
