@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Roster Rocket League 2024 de la KCorp'
+title: 'Annonce du roster Rocket League 2024 de la KCorp'
 ---
 RAM collabore avec Karmine Corp pour leur vidéo d'annonce du roster Rocket League 2024.
 

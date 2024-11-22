@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Roster Valorant 2024 de la KCorp'
+title: 'Annonce du maillot 2024 de la KCorp'
 ---
 RAM collabore avec Karmine Corp pour leur vidéo d'annonce des maillots LEC 2024. 
 

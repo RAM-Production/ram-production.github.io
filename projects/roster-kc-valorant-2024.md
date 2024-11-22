@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Roster Valorant 2024 de la KCorp'
+title: 'Annonce du roster Valorant 2024 de la KCorp'
 ---
 RAM collabore avec Karmine Corp pour leur vidéo d'annonce du roster Valorant 2024.
 

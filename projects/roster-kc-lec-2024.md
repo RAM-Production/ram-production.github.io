@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Roster LEC 2024 de la KCorp'
+title: 'Annonce du roster LEC 2024 de la KCorp'
 ---
 RAM collabore avec Karmine Corp pour leur vidéo d'annonce de roster LEC 2024 sur League of Legends. 
 
