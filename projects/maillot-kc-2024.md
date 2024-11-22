@@ -6,7 +6,7 @@ RAM collabore avec Karmine Corp pour leur vidéo d'annonce des maillots LEC 2024
 
 {% include image.html url="https://www.youtube.com/watch?v=-RC1p9HWGaY" image="projects/maillot-kc-2024/thumbnail.jpg" text="Voir vidéo" %}
 
-## Photos
+## Photos du tournage
 
 {% include image.html image="projects/maillot-kc-2024/1.jpg"%}
 
