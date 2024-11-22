@@ -6,7 +6,7 @@ RAM collabore avec Karmine Corp pour leur vidéo d'annonce du roster Valorant 20
 
 {% include image.html url="https://www.youtube.com/watch?v=A3F1uoE6ys0" image="projects/roster-kc-valorant-2024/thumbnail.jpg" text="Voir vidéo" %}
 
-## Photos du tournage
+#### Photos du tournage
 
 {% include image.html image="projects/roster-kc-valorant-2024/1.jpg"%}
 

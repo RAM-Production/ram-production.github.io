@@ -8,11 +8,11 @@ Projet original de RAM écrit et réalisé par Alix Atencia. Production et distr
 {% include image.html url="https://www.youtube.com/watch?v=uvkS8oUnC8o" image="projects/carcinome-in-situ/thumbnail.png" text="Voir vidéo" %}
 
 
-## Affiche
+#### Affiche
 
 {% include image.html image="projects/carcinome-in-situ/affiche.png" %}
 
-## Extraits
+#### Extraits
 
 {% include image.html image="projects/carcinome-in-situ/1.png" %}
 

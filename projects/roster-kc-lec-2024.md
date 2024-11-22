@@ -6,7 +6,7 @@ RAM collabore avec Karmine Corp pour leur vidéo d'annonce de roster LEC 2024 su
 
 {% include image.html url="https://www.youtube.com/watch?v=ip666aaFRrc" image="projects/roster-kc-lec-2024/thumbnail.jpg" text="Voir vidéo" %}
 
-## Photos du tournage
+#### Photos du tournage
 
 {% include image.html image="projects/roster-kc-lec-2024/1.jpg"%}
 
