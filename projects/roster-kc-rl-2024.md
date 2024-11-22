@@ -6,7 +6,7 @@ RAM collabore avec Karmine Corp pour leur vidéo d'annonce du roster Rocket Leag
 
 {% include image.html url="https://www.youtube.com/watch?v=3UCWgAwstR0" image="projects/roster-kc-rl-2024/thumbnail.jpg" text="Voir vidéo" %}
 
-**Photos**:
+## Photos
 
 {% include image.html image="projects/roster-kc-rl-2024/1.jpg"%}
 
