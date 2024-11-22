@@ -1,4 +1,5 @@
 <div class="image-container">
+  {% if include.url %}
   <a href="{{ include.url }}" target="_blank">
     <img src="{{ site.github.url }}/assets/img/{{ include.image }}" alt="Avatar" class="image">
     <div class="overlay">
@@ -11,4 +12,7 @@
       </div>
     </div>
   </a>
+  {% else %}
+  <img src="{{ site.github.url }}/assets/img/{{ include.image }}" alt="Avatar" class="image">
+  {% endif %}
 </div>
