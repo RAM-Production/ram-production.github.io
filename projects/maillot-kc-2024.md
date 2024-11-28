@@ -2,7 +2,7 @@
 layout: post
 title: 'Annonce du maillot 2024 de la KCorp'
 ---
-RAM co-produit avec Karmine Corp pour leur vidéo d'annonce des maillots LEC 2024. 
+RAM co-produit avec Karmine Corp leur vidéo d'annonce des maillots LEC 2024. 
 
 {% include image.html url="https://www.youtube.com/watch?v=-RC1p9HWGaY" image="projects/maillot-kc-2024/thumbnail.jpg" text="Voir vidéo" %}
 

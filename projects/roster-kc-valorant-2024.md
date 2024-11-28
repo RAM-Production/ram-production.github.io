@@ -2,7 +2,7 @@
 layout: post
 title: 'Annonce du roster Valorant 2024 de la KCorp'
 ---
-RAM co-produit avec Karmine Corp pour leur vidéo d'annonce du roster Valorant 2024.
+RAM co-produit avec Karmine Corp leur vidéo d'annonce du roster Valorant 2024.
 
 {% include image.html url="https://www.youtube.com/watch?v=A3F1uoE6ys0" image="projects/roster-kc-valorant-2024/thumbnail.jpg" text="Voir vidéo" %}
 
