@@ -4,6 +4,6 @@ title: About
 permalink: /about
 ---
 
-# RAM production
+# RAM
 
 [TODO]
